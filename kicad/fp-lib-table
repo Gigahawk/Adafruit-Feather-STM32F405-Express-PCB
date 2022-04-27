@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Adafruit Feather STM32F405 Express")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit Feather STM32F405 Express.pretty")(options "")(descr ""))
+)
